@@ -11,7 +11,7 @@
 
 <p align="right" width="50%"> 
  
-- 👋 Hi, I’m @deepak2864
+- 👋 Hi, I’m @deepakpanchal07
 
 - 🌱 I’m currently learning *Full-Stack Development, Flutter Developer etc*
 
