@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning *Full-Stack Development, Flutter Developer etc*
 
-- 👨‍💻 All of my projects are available at [Hitesh_Kumar_Portfolio](https://hitesh-kumar-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Deepak Portfolio](https://hitesh-kumar-portfolio.vercel.app/)
 
 - 💬 Ask me about * Flutter, Dart, Python, etc *
 
