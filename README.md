@@ -21,7 +21,7 @@
 
 - 📫 How to reach me *pnchaldeepak82@gmail.com*
 
-- 📄 Know about my experiences [Deepak Resume](https://drive.google.com/file/d/1VGWdYDYe9Dy0xG-2NOZpxFN4tv8i6fD9/view?usp=sharing)
+- 📄 Know about my experiences [Deepak Resume](https://drive.google.com/file/d/1Ry2vh-_LXIkDrRNYPFSs4DIoJxIobjLZ/view?usp=drive_link)
 
 - ⚡ Fun fact *I think I can code.*
 
